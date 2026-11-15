@@ -1,0 +1,91 @@
+{
+  "authorPage": "https://www.amazon.it/stores/Serena-Sensini/author/B0DMFP2JY1",
+  "authored": [
+    {
+      "title": "Docker",
+      "subtitle": "Sviluppare e rilasciare software tramite container",
+      "publisher": "Apogeo",
+      "pages": 543,
+      "url": "https://www.amazon.it/dp/B08KJBMRH1",
+      "isbn": "9788850335404"
+    },
+    {
+      "title": "Kubernetes",
+      "subtitle": "Guida per gestire e orchestrare i container",
+      "publisher": "Apogeo",
+      "pages": 690,
+      "url": "https://www.amazon.it/dp/B0C66FVH1F",
+      "isbn": "9788850336692"
+    },
+    {
+      "title": "Basi di dati",
+      "subtitle": "Tecnologie, architetture e linguaggi per database",
+      "publisher": "Apogeo",
+      "pages": 588,
+      "url": "https://www.amazon.it/dp/B08Y4V76RC",
+      "isbn": "9788850335534"
+    },
+    {
+      "title": "Analisi del linguaggio con Python",
+      "subtitle": "Imparare a processare testo e audio con le librerie open source",
+      "publisher": "Apogeo",
+      "pages": 312,
+      "url": "https://www.amazon.it/dp/B07YZQMHJF",
+      "isbn": "9788850335091"
+    },
+    {
+      "title": "Ionic 5",
+      "subtitle": "Guida completa per creare app per Android e iOS",
+      "publisher": "Hoepli",
+      "pages": 236,
+      "year": 2020,
+      "isbn": "9788820396251",
+      "lang": "it",
+      "url": "https://www.hoepli.it/libro/ionic-5/9788820396251.html"
+    }
+  ],
+  "reviewed": [
+    {
+      "title": "Node.js",
+      "subtitle": "Guida per creare API e applicazioni in JavaScript",
+      "by": "Alessandro Miliucci",
+      "publisher": "Apogeo",
+      "pages": 604,
+      "lang": "it",
+      "url": "https://www.amazon.it/dp/B0D42C57BT"
+    },
+    {
+      "title": "React",
+      "subtitle": "Guida pratica allo sviluppo front-end",
+      "by": "Alessandro Miliucci",
+      "publisher": "Apogeo",
+      "pages": 390,
+      "lang": "it",
+      "url": "https://www.amazon.it/dp/B0BZQ6CYCV"
+    },
+    {
+      "title": "Ignoranza artificiale",
+      "subtitle": "Quello che le macchine non sanno",
+      "by": "Paolo Caressa",
+      "publisher": "Apogeo",
+      "pages": 222,
+      "lang": "it",
+      "url": "https://www.amazon.it/dp/B0FX3HHWBF"
+    },
+    {
+      "title": "Web3 Development with Angular",
+      "subtitle": "Building Web Applications with Blockchain and Web3 Technologies",
+      "by": "Soumaya Erradi",
+      "publisher": "Apress",
+      "pages": 483,
+      "lang": "en",
+      "url": "https://www.amazon.it/dp/B0FJL1QH2J"
+    }
+  ],
+  "affiliateTag": "theredcode-21",
+  "publishers": {
+    "Apogeo": "https://www.apogeonline.com/",
+    "Hoepli": "https://www.hoepli.it/",
+    "Apress": "https://www.apress.com/"
+  }
+}

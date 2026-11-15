@@ -1,0 +1,77 @@
+@use 'sass:map';
+
+// Design tokens: unico punto in cui cambiare colori, font, spaziature e raggi.
+// Gli stessi valori sono esposti come custom properties CSS (:root).
+
+$breakpoints: (
+  sm: 640px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1280px,
+);
+
+@mixin up($bp) {
+  @media (min-width: map.get($breakpoints, $bp)) {
+    @content;
+  }
+}
+
+:root {
+  color-scheme: light;
+  // Palette ricavata da due colori di brand: rosso #cd2222 (primario) e malva #7d5050 (secondario).
+  // Neutri con una leggera dominante calda/rosata per restare in tono.
+  --color-paper: #f2f2ee; // sfondo (grigio caldo della moodboard, schiarito)
+  --color-surface: #e4e4df; // card e blocchi (il grigio della moodboard)
+  --color-ink: #261a1a; // testo primario (15.8:1 su paper)
+  --color-secondary: #7d5050; // secondario di brand (6.3:1 su paper)
+  --color-ink-muted: var(--color-secondary); // testo secondario
+  --color-line: #d0d0ca; // bordi decorativi
+  --color-line-strong: #7d5050; // bordi dei controlli (>3:1)
+  --color-accent: #cd2222; // primario: bottoni (5.1:1 col testo chiaro), elementi grandi, decorazioni
+  --color-accent-ink: #b81e1e; // variante più profonda per testo piccolo e link (6.1:1 su paper, 5.1:1 su accent-soft)
+  --color-accent-soft: #f4dedb;
+  --color-success: #1e6b3a;
+  --color-success-soft: #e3f3e8;
+  --color-error: #a4161a;
+  --color-error-soft: #fbe3e3;
+  --color-on-dark: #f2f2ee;
+  --color-dark: #2a1b1b;
+  --color-on-ink: #f2f2ee; // testo su fondi in colore ink (bottoni secondari al passaggio, filtri attivi)
+  --color-accent-hover: #261a1a; // bottone primario al passaggio
+  --color-link-on-dark: #ffa8a0; // link e dettagli su fondo scuro (8.9:1)
+
+  // Tipografia
+  --font-script:
+    'Caveat', 'Segoe Print', 'Bradley Hand', cursive; // calligrafica, solo per titoletti e annotazioni grandi
+  --font-display: 'Fraunces', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+
+  --step--1: clamp(0.82rem, 0.8rem + 0.1vw, 0.9rem);
+  --step-0: clamp(1rem, 0.96rem + 0.2vw, 1.125rem);
+  --step-1: clamp(1.2rem, 1.1rem + 0.5vw, 1.4rem);
+  --step-2: clamp(1.45rem, 1.2rem + 1.2vw, 2rem);
+  --step-3: clamp(1.8rem, 1.3rem + 2.4vw, 2.9rem);
+  --step-4: clamp(2.3rem, 1.4rem + 4.4vw, 4.6rem);
+
+  // Spaziature (scala 4px)
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: clamp(3.5rem, 2.5rem + 5vw, 7rem);
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --shadow-sm: 0 1px 2px rgb(38 26 26 / 8%);
+  --shadow-md: 0 8px 24px -12px rgb(38 26 26 / 25%);
+
+  --content-width: 72rem;
+  --reading-width: 42rem;
+  --gutter: clamp(1rem, 4vw, 2rem);
+  --tap: 2.75rem; // target di tocco minimo 44px
+}

@@ -1,0 +1,38 @@
+@use 'tokens';
+
+// Tema scuro: stessi token, valori derivati dalla palette (rosso #cd2222, malva #7d5050) su fondo bruno-malva.
+// Si attiva con la preferenza di sistema oppure con data-theme="dark" (pulsante nell'header).
+// I contrasti sono verificati da scripts/check-a11y.mjs insieme a quelli del tema chiaro.
+@mixin dark-tokens {
+  color-scheme: dark;
+  --color-paper: #1c1515;
+  --color-surface: #2a1f1f;
+  --color-ink: #f3eded;
+  --color-secondary: #c9a3a3;
+  --color-line: #3d2e2e;
+  --color-line-strong: #b08585;
+  --color-accent: #cd2222; // i bottoni restano nel rosso di brand (testo chiaro, 4.7:1)
+  --color-accent-ink: #ff9a92; // testo e link rossi, schiariti per il fondo scuro
+  --color-accent-soft: #3d2121;
+  --color-accent-hover: #a81a1a;
+  --color-success: #7bd69b;
+  --color-success-soft: #16301f;
+  --color-error: #ff9b9b;
+  --color-error-soft: #3a1618;
+  --color-on-dark: #f3eded;
+  --color-on-ink: #1c1515;
+  --color-dark: #0f0a0a; // sezioni "scure" e footer: più profonde della pagina
+  --color-link-on-dark: #ffa8a0;
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 40%);
+  --shadow-md: 0 8px 24px -12px rgb(0 0 0 / 70%);
+}
+
+:root[data-theme='dark'] {
+  @include dark-tokens;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    @include dark-tokens;
+  }
+}

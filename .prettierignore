@@ -1,0 +1,8 @@
+dist/
+node_modules/
+package-lock.json
+src/content/
+public/
+README.md
+CLAUDE.md
+.claude/

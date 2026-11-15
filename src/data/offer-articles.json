@@ -1,0 +1,18 @@
+{
+  "training": [
+    "docker-healthcheck-cosa-misura-limiti",
+    "kubernetes-come-funziona-control-plane",
+    "openshift-best-practices-per-la-sicurezza",
+    "postgres-lock-come-funziona-e-come-attivarlo",
+    "no-sql-data-modeling-come-funziona",
+    "bash-error-handling-1-set-euo-pipefail-script-sicuri"
+  ],
+  "consulting": [
+    "deploy-cluster-postgres-ha-kubernetes",
+    "ottimizzare-dimensione-heap-jvm-kubernetes",
+    "ollama-su-openshift-implementazione",
+    "cloud-sovereignty-framework-ue-come-funziona",
+    "performance-testing-cos-e-casi-d-uso",
+    "ai-act-vs-ddl-vs-cloud-dev-act"
+  ]
+}

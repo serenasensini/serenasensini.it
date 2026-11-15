@@ -1,0 +1,834 @@
+{
+  "lang": "es",
+  "locale": "es_ES",
+  "langName": "Español",
+  "paths": {
+    "home": "",
+    "about": "sobre-mi",
+    "services": "servicios",
+    "projects": "proyectos",
+    "events": "eventos",
+    "blog": "blog",
+    "contact": "contacto",
+    "privacy": "privacidad",
+    "story": "mi-historia"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "story": "Mi historia",
+    "services": "Trabaja conmigo",
+    "projects": "Proyectos",
+    "events": "Eventos",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "ui": {
+    "skip": "Saltar al contenido principal",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú",
+    "mainNav": "Navegación principal",
+    "footerNav": "Enlaces del sitio",
+    "langNav": "Elige el idioma",
+    "breadcrumb": "Ruta de navegación",
+    "home": "Inicio",
+    "newTab": "(se abre en una pestaña nueva)",
+    "filterType": "Tipo",
+    "filterYear": "Año",
+    "all": "Todos",
+    "allYears": "Todos los años",
+    "results": "{n} resultados",
+    "empty": "Todavía no hay nada que mostrar.",
+    "pagination": "Paginación",
+    "prev": "Página anterior",
+    "next": "Página siguiente",
+    "page": "Página",
+    "minutes": "{n} min",
+    "status": "Mensaje de estado",
+    "todo": "[POR COMPLETAR]",
+    "codeLabel": "Ejemplo de código",
+    "skills": "Competencias",
+    "readMore": "Más información",
+    "photoAlt": "Retrato de Serena Sensini",
+    "photoAboutAlt": "Serena Sensini hablando al micrófono durante una charla",
+    "photoEventsAlt": "Serena Sensini en el escenario de una conferencia, con la acreditación de ponente",
+    "darkTheme": "Tema oscuro",
+    "updated": "Última actualización"
+  },
+  "meta": {
+    "siteName": "Serena Sensini",
+    "tagline": "IA, DevCloudOps y divulgación técnica",
+    "home": {
+      "title": "Serena Sensini · CTO, formadora y ponente de IA y DevOps",
+      "description": "CTO @ Welyk, ex Innovation & Emerging Technologies Leader @ Dedalus, formadora y ponente. Consultoría y formación en IA, DevOps y cloud native. Roma y remoto."
+    },
+    "about": {
+      "title": "Sobre Serena Sensini · Experta en IA y DevCloudOps",
+      "description": "Serena Sensini: CTO, ex Innovation & Emerging Technologies Leader, Enterprise Architect y experta en IA. Competencias, libros, charlas y comunidad. Roma y remoto."
+    },
+    "services": {
+      "title": "Consultoría de IA, formación DevOps y ponente · Serena Sensini",
+      "description": "Consultoría técnica en IA y DevCloudOps, formación y charlas para pymes, startups, profesionales y escuelas de formación. Roma y remoto."
+    },
+    "projects": {
+      "title": "Proyectos, libros y comunidad · Serena Sensini",
+      "description": "TheRedCode.it, libros técnicos, charlas y comunidad: los proyectos con los que Serena Sensini acerca la IA y el cloud native a un público amplio."
+    },
+    "events": {
+      "title": "Charlas y conferencias sobre IA y DevOps · Serena Sensini",
+      "description": "50+ charlas sobre IA, cloud native, DevOps y Python en conferencias y comunidades, con filtros por tipo y año y charlas disponibles para tu evento."
+    },
+    "blog": {
+      "title": "Blog sobre IA y DevOps · Serena Sensini",
+      "description": "Los últimos artículos de Serena Sensini en TheRedCode.it: inteligencia artificial, NLP, DevOps y tecnologías cloud native."
+    },
+    "contact": {
+      "title": "Contacto y colaboraciones · Serena Sensini",
+      "description": "Cómo contactar con Serena Sensini para charlas, consultoría, formación y colaboraciones: correo, LinkedIn, disponibilidad y áreas de trabajo."
+    },
+    "privacy": {
+      "title": "Política de privacidad · Serena Sensini",
+      "description": "Información sobre el tratamiento de datos personales y el uso de Google Analytics en serenasensini.it."
+    },
+    "notFound": {
+      "title": "Página no encontrada · Serena Sensini",
+      "description": "La página que buscas no existe o se ha movido. Vuelve al inicio de serenasensini.it para seguir navegando."
+    },
+    "story": {
+      "title": "Mi historia · Serena Sensini",
+      "description": "El recorrido profesional completo de Serena Sensini: experiencia, roles, comunidad, libros, formación y certificaciones."
+    }
+  },
+  "hero": {
+    "eyebrow": "IA · DevCloudOps · Divulgación",
+    "role": "CTO @ Welyk & Trainer · Ponente, autora y Tech Mentor",
+    "value": "Hago que la tecnología sea comprensible, fiable y sostenible: para las personas que la construyen y para quienes deciden cómo usarla.",
+    "ctaPrimary": "Escríbeme por LinkedIn",
+    "ctaSecondary": "Ver los proyectos",
+    "location": "Remoto · Roma"
+  },
+  "home": {
+    "introTitle": "En breve",
+    "introText": "Empecé a programar en VB a los seis años y desde entonces he llevado muchos sombreros: data scientist, experta en IA, Enterprise Architect (antes sysadmin e ingeniera DevOps) y desarrolladora full-stack. Hoy combino mi experiencia en IA y DevCloudOps y cuento la tecnología en pequeños bits en el blog TheRedCode.it y en los escenarios de las conferencias.",
+    "introLink": "Lee mi trayectoria",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "años hablando en público"
+      },
+      {
+        "value": "50+",
+        "label": "charlas presentadas"
+      },
+      {
+        "value": "5+",
+        "label": "libros técnicos publicados"
+      }
+    ],
+    "servicesTitle": "Cómo puedo ayudarte",
+    "servicesLink": "Descubre cómo trabajamos juntos",
+    "projectsTitle": "Proyectos y resultados",
+    "projectsLink": "Todos los proyectos",
+    "eventsTitle": "Eventos destacados",
+    "eventsLink": "Todos los eventos",
+    "blogTitle": "Desde el blog",
+    "blogLink": "Ir a TheRedCode.it",
+    "ctaTitle": "¿Tienes un proyecto, un evento o un equipo que hacer crecer?",
+    "ctaText": "Cuéntame qué necesitas: te responderé con una propuesta clara de formato, plazos y objetivos.",
+    "introRole": "Ex Innovation & Emerging Technologies Leader @ Dedalus",
+    "topicsTitle": "Temas principales",
+    "topics": [
+      {
+        "icon": "ai",
+        "title": "Inteligencia artificial",
+        "text": "Machine learning, deep learning e IA generativa."
+      },
+      {
+        "icon": "nlp",
+        "title": "NLP y LLM",
+        "text": "Procesamiento del lenguaje natural y modelos de lenguaje."
+      },
+      {
+        "icon": "devops",
+        "title": "DevOps y DevSecOps",
+        "text": "CI/CD, automatización y seguridad en toda la pipeline."
+      },
+      {
+        "icon": "cloud",
+        "title": "Cloud native",
+        "text": "Kubernetes, Docker, Linux y arquitecturas cloud."
+      }
+    ],
+    "servicesLead": "Serena Sensini es CTO, formadora y ponente sobre IA, DevOps y cloud native: formación para empresas y particulares, docencia en ITS, consultoría técnica y charlas, en Roma y online."
+  },
+  "about": {
+    "pathTitle": "Trayectoria y comunidad",
+    "skillsTitle": "Competencias",
+    "skillGroups": [
+      {
+        "title": "IA y datos",
+        "items": [
+          "IA",
+          "NLP",
+          "LLM",
+          "Machine Learning",
+          "Deep Learning",
+          "Análisis de datos",
+          "Data Science",
+          "Python",
+          "Bases de datos relacionales y NoSQL"
+        ]
+      },
+      {
+        "title": "DevCloudOps",
+        "items": [
+          "DevOps",
+          "Cloud",
+          "Kubernetes",
+          "Docker",
+          "OpenShift",
+          "Enterprise Architecture",
+          "DevSecOps",
+          "Linux"
+        ]
+      },
+      {
+        "title": "Comunicación",
+        "items": [
+          "Charlas y keynotes",
+          "Talleres",
+          "Paneles",
+          "Escritura técnica",
+          "Creación de contenido"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "when": "may 2026 – hoy",
+        "title": "CTO · Welyk",
+        "text": "Visión tecnológica a largo plazo para una startup de recruiting-as-a-service (RaaS): estrategia tecnológica para acelerar el crecimiento del producto y apoyar la expansión del negocio."
+      },
+      {
+        "when": "mar 2024 – hoy",
+        "title": "Tech Expert · Welyk (autónoma)",
+        "text": "Acompaño el crecimiento técnico de personas y equipos y realizo entrevistas técnicas con rigor y atención al potencial de las personas candidatas."
+      },
+      {
+        "when": "ene 2025 – dic 2026",
+        "title": "Ex Innovation & Emerging Technologies Leader · Dedalus",
+        "text": "Dirigí la adopción estratégica de tecnologías emergentes para eficiencia operativa, accesibilidad y sostenibilidad, con iniciativas transversales sobre IA, platform engineering y DevSecOps."
+      },
+      {
+        "when": "nov 2020 – ene 2025",
+        "title": "Enterprise Architect · Dedalus",
+        "text": "Alineé la estrategia tecnológica con los objetivos de negocio en DevOps, infraestructura, seguridad y modernización de aplicaciones, definiendo estándares y modelos de gobierno."
+      },
+      {
+        "when": "mar 2021 – hoy",
+        "title": "Fundadora · TheRedCode.it",
+        "text": "El blog tech que creé y que cuido con la colaboración de otros autores."
+      },
+      {
+        "when": "2024 – hoy",
+        "title": "Co-host del pódcast Edicola Cloud",
+        "text": "Con Andrea Saltarello comento las novedades del mundo cloud y tech, en todas las plataformas de streaming."
+      },
+      {
+        "when": "2026",
+        "title": "Trainer",
+        "text": "Docente en ITS Maria Agnesi (2026) y formadora para empresas y particulares, con cursos sobre Docker, Linux, IA para marketing, NLP, machine learning, deep learning, DevSecOps y más."
+      },
+      {
+        "when": "Hoy",
+        "title": "Colaboración con GDG Roma Città",
+        "text": "Colaboro con la comunidad GDG Roma Città."
+      },
+      {
+        "when": "2026",
+        "title": "Cloud Native Days Italy",
+        "text": "Ponente y miembro del Program Committee de la edición 2026."
+      },
+      {
+        "when": "2021",
+        "title": "Huawei Developer Expert · AgilePM® Foundation",
+        "text": "Reconocimiento de Huawei (julio de 2021) y certificación AgilePM® Foundation de APMG International (octubre de 2021)."
+      },
+      {
+        "when": "2015 – 2018",
+        "title": "Tutora en el Linux User Group Roma Tre",
+        "text": "Cursos breves de Linux y Python."
+      },
+      {
+        "when": "2007 – 2019",
+        "title": "Università degli Studi di Roma Tre",
+        "text": "Laurea magistrale (máster) en Inteligencia Artificial (2019), con una tesis sobre procesamiento del lenguaje natural aplicado al reconocimiento de emociones. Laurea triennale (grado) en Ingeniería Informática, con una tesis sobre la personalización y corrección de errores de coreboot, firmware de código abierto."
+      }
+    ],
+    "valuesTitle": "Cómo trabajo",
+    "values": [
+      {
+        "title": "Explicar para que se entienda",
+        "text": "Un concepto está claro solo cuando puedes explicárselo a alguien ajeno al sector. Hago divulgación técnica para reducir las barreras del lenguaje."
+      },
+      {
+        "title": "Tecnología con barandillas",
+        "text": "La IA acelera el trabajo, pero también aumenta lo que hay que gobernar: costes, seguridad, sostenibilidad. Las personas siguen al mando."
+      },
+      {
+        "title": "Aprender haciendo",
+        "text": "Demos en directo, ejemplos reproducibles y código que funciona: la teoría sirve cuando se puede probar."
+      }
+    ],
+    "testimonialsTitle": "Lo que dicen de mí",
+    "languagesTitle": "Idiomas",
+    "languagesText": "Italiano y español nativos, inglés y francés a nivel profesional.",
+    "ctaTitle": "¿Trabajamos juntos?",
+    "ctaText": "Escríbeme para una charla, una consultoría o un itinerario de mentoría.",
+    "factsTitle": "Ficha rápida",
+    "facts": [
+      ["Nombre", "Serena Sensini"],
+      [
+        "Roles",
+        "CTO @ Welyk, Trainer, Public Speaker, Autora; ex Innovation & Emerging Technologies Leader @ Dedalus"
+      ],
+      ["Ubicación", "Roma y remoto"],
+      ["Idiomas", "Italiano, español, inglés, francés"],
+      [
+        "Temas",
+        "Inteligencia artificial, NLP, LLM, análisis de datos, data science, machine learning, deep learning, bases de datos relacionales y NoSQL, DevOps, DevSecOps, cloud native, Kubernetes, Docker, Linux, Python"
+      ],
+      ["Público", "Pymes, startups, profesionales, escuelas de formación"],
+      [
+        "Formación",
+        "Docente en ITS, cursos para empresas y particulares: grupos de 10–15 personas o más, nivel básico y avanzado, laboratorios prácticos"
+      ],
+      ["Charlas", "10+ años, 50+ charlas"],
+      ["Pódcast", "Co-host de Edicola Cloud con Andrea Saltarello (desde 2024)"],
+      ["Libros", "5+ libros técnicos"],
+      ["Blog", "TheRedCode.it (fundadora)"]
+    ],
+    "hobbiesTitle": "Más allá del trabajo",
+    "hobbiesText": "Fuera del trabajo me encanta leer y viajar.",
+    "testimonialsPointer": "Las recomendaciones y los comentarios son públicos en mi perfil de LinkedIn y en Emblema, donde se valoran las charlas.",
+    "education": [
+      {
+        "degree": "Laurea magistrale (máster) en Inteligencia Artificial",
+        "year": "2019",
+        "thesis": "tesis sobre procesamiento del lenguaje natural aplicado al reconocimiento de emociones"
+      },
+      {
+        "degree": "Laurea triennale (grado) en Ingeniería Informática",
+        "year": null,
+        "thesis": "tesis sobre la personalización y corrección de errores de coreboot, firmware de código abierto"
+      }
+    ]
+  },
+  "services": {
+    "intro": "Formación, docencia, consultoría técnica y charlas sobre IA, DevOps y cloud native, para pymes, startups, profesionales, ITS y escuelas de formación. En remoto y en Roma.",
+    "itemsTitle": "Servicios",
+    "items": [
+      {
+        "title": "Formación",
+        "text": "Cursos prácticos de Docker, Kubernetes, DevSecOps, IA, data science, bases de datos y más, para equipos de empresa y particulares con laboratorios prácticos.",
+        "tags": ["Cursos", "Empresas", "Particulares"]
+      },
+      {
+        "title": "Docencia en ITS y escuelas",
+        "text": "Módulos y cursos para ITS y escuelas de formación, de la programación a la IA.",
+        "tags": ["ITS", "Escuelas", "Docencia"]
+      },
+      {
+        "title": "Consultoría técnica",
+        "text": "IA, MLOps, cloud y DevSecOps para pymes y startups, con mentoría técnica para los equipos.",
+        "tags": ["IA", "DevCloudOps", "Mentoría", "Entrevistas técnicas"]
+      },
+      {
+        "title": "Ponente y talleres",
+        "text": "Charlas, keynotes, talleres y paneles en italiano, inglés o español.",
+        "tags": ["Charlas", "Talleres", "Keynotes"]
+      }
+    ],
+    "processTitle": "Cómo trabajamos juntos",
+    "process": [
+      {
+        "title": "Escucha",
+        "text": "Una primera conversación para entender contexto, objetivos y límites."
+      },
+      {
+        "title": "Propuesta",
+        "text": "Te propongo formato, contenidos y plazos, con claridad y sin sorpresas."
+      },
+      {
+        "title": "Realización",
+        "text": "Preparo y entrego el trabajo acordado, de la charla a la consultoría."
+      },
+      {
+        "title": "Seguimiento",
+        "text": "Materiales, respuestas a preguntas y próximos pasos, si hacen falta."
+      }
+    ],
+    "faqTitle": "Preguntas frecuentes",
+    "faq": [
+      {
+        "q": "¿Trabajas en remoto o presencial?",
+        "a": "Trabajo en remoto y en Roma. Para eventos o proyectos en otros lugares lo hablamos caso por caso."
+      },
+      {
+        "q": "¿En qué idiomas puedes trabajar?",
+        "a": "Italiano, inglés y español."
+      },
+      {
+        "q": "¿Qué formatos ofreces para eventos?",
+        "a": "Charlas, keynotes, lightning talks, talleres y paneles. En la página de Eventos tienes la lista de las charlas ya dadas."
+      },
+      {
+        "q": "¿Cómo empiezo?",
+        "a": "Escríbeme por LinkedIn con un par de líneas sobre objetivo y plazos: te responderé con los siguientes pasos."
+      },
+      {
+        "q": "¿Cuánto cuesta?",
+        "a": "Depende del formato, la duración y el número de personas. Escríbeme con un par de líneas sobre objetivos y plazos: te responderé con una propuesta a medida."
+      },
+      {
+        "q": "¿Qué temas puedo pedir?",
+        "a": "Docker, Linux, Kubernetes, DevSecOps, IA para marketing y productividad (prompt engineering, vibe coding), análisis de datos, data science, bases de datos relacionales y NoSQL, NLP, machine learning, deep learning, visión por computador y más y ámbitos de IA como RAG, agentes, seguridad, costes y sostenibilidad de la IA: si no ves tu tema, pregunta."
+      },
+      {
+        "q": "¿También haces entrevistas técnicas para la selección?",
+        "a": "Sí: realizo entrevistas técnicas por cuenta de los clientes, evaluando competencias y potencial de las personas candidatas con rigor y atención a las personas, buscando lo que el cliente necesita en su propio equipo."
+      },
+      {
+        "q": "¿Cuántas personas pueden asistir a los cursos?",
+        "a": "Normalmente grupos de 10–15 personas, pero también trabajo con grupos más numerosos. Los cursos son de nivel básico o avanzado e incluyen laboratorios prácticos."
+      }
+    ],
+    "ctaTitle": "Hablemos de tu proyecto",
+    "ctaText": "Un mensaje con objetivo y plazos es suficiente para empezar.",
+    "toc": "En esta página",
+    "more": "Escríbeme sobre este servicio",
+    "topicsLabel": "Temas",
+    "formatsLabel": "Cómo trabajamos",
+    "forLabel": "Para quién",
+    "offers": [
+      {
+        "id": "training",
+        "title": "Formación para empresas y particulares",
+        "lead": "Cursos prácticos y a medida para equipos de empresa y profesionales.",
+        "text": "Como formadora construyo el itinerario contigo a partir de los objetivos y el nivel de partida: demos en directo, ejercicios y ejemplos reproducibles. Los contenidos nacen de la experiencia en el campo y de los libros que he escrito. Cursos para grupos de 10–15 personas (o más), de nivel básico y avanzado, con laboratorios prácticos y enfoque operativo.",
+        "groups": [
+          {
+            "title": "Contenedores y cloud native",
+            "items": ["Docker", "Kubernetes", "OpenShift", "Linux"]
+          },
+          {
+            "title": "DevOps y seguridad",
+            "items": ["DevOps", "DevSecOps", "CI/CD"]
+          },
+          {
+            "title": "IA y datos",
+            "items": [
+              "Machine learning",
+              "Deep learning",
+              "NLP",
+              "Visión por computador",
+              "Bases de datos relacionales y NoSQL",
+              "Análisis de datos",
+              "Data science"
+            ]
+          },
+          {
+            "title": "IA para personas y empresas",
+            "items": [
+              "IA para marketing",
+              "IA para la productividad",
+              "Prompt engineering",
+              "Vibe coding"
+            ]
+          }
+        ],
+        "formats": [
+          "Presencial en Roma o en remoto",
+          "Para equipos de empresa o particulares",
+          "Grupos de 10–15 personas, o más",
+          "Nivel básico y avanzado",
+          "Laboratorios prácticos con enfoque operativo",
+          "Otros temas bajo petición"
+        ],
+        "audience": "Equipos técnicos, pymes y startups, profesionales que quieren actualizarse o cambiar de rumbo.",
+        "courses": [
+          "Curso de Docker",
+          "Curso de Kubernetes y OpenShift",
+          "Curso de Linux",
+          "Curso de DevOps y DevSecOps",
+          "Curso de bases de datos relacionales y NoSQL",
+          "Curso de análisis de datos y data science",
+          "Curso de machine learning y deep learning",
+          "Curso de NLP y visión por computador",
+          "Curso de IA para marketing y productividad",
+          "Curso de prompt engineering y vibe coding"
+        ]
+      },
+      {
+        "id": "schools",
+        "title": "Docencia en ITS y escuelas de formación",
+        "lead": "Módulos y cursos para quien forma a los próximos profesionales digitales.",
+        "text": "Como docente de ITS y escuelas de formación llevo al aula los mismos temas de los cursos para empresas, con un enfoque didáctico y progresivo. En 2026 fui docente en ITS Maria Agnesi.",
+        "groups": [
+          {
+            "title": "Temas",
+            "items": [
+              "Docker",
+              "Linux",
+              "Kubernetes",
+              "DevSecOps",
+              "Machine learning",
+              "Deep learning",
+              "NLP",
+              "IA para marketing",
+              "Prompt engineering",
+              "Visión por computador",
+              "Análisis de datos",
+              "Data science",
+              "Bases de datos relacionales y NoSQL"
+            ]
+          }
+        ],
+        "formats": [
+          "Módulos sueltos o cursos completos",
+          "Presencial o en remoto",
+          "Nivel básico y avanzado, con laboratorios prácticos",
+          "Programa acordado con la escuela"
+        ],
+        "audience": "ITS, escuelas de formación y academias digitales."
+      },
+      {
+        "id": "consulting",
+        "title": "Consultoría técnica",
+        "lead": "Decisiones técnicas claras sobre IA, cloud y seguridad, sin humo.",
+        "text": "Como consultora acompaño a pymes y startups en la adopción de IA, NLP y MLOps, contenedores y Kubernetes, arquitecturas cloud y DevSecOps, con atención a costes, seguridad y sostenibilidad. También ofrezco mentoría y liderazgo técnico para personas y equipos. También realizo entrevistas técnicas para la selección de perfiles tech, evaluando competencias y potencial de las personas candidatas.",
+        "groups": [
+          {
+            "title": "Áreas de trabajo",
+            "items": [
+              "IA, NLP y LLM",
+              "MLOps",
+              "Análisis de datos y data science",
+              "Arquitectura cloud y Kubernetes",
+              "DevOps y DevSecOps",
+              "Mentoría y liderazgo técnico",
+              "Bases de datos relacionales y NoSQL",
+              "Entrevistas técnicas y selección de perfiles tech"
+            ]
+          }
+        ],
+        "formats": [
+          "Análisis y consultoría de proyecto",
+          "Acompañamiento a los equipos",
+          "Revisión de arquitecturas y pipelines",
+          "Entrevistas técnicas para tus candidatos"
+        ],
+        "audience": "Pymes, startups y equipos que deben decidir cómo adoptar o gobernar IA y cloud."
+      },
+      {
+        "id": "speaking",
+        "title": "Ponente, keynotes y talleres",
+        "lead": "Charlas claras y concretas para conferencias, comunidades y empresas.",
+        "text": "Como ponente doy charlas, keynotes, lightning talks, talleres y paneles sobre IA, cloud native y DevOps, en italiano, inglés o español. Hablo en público desde hace más de 10 años y he dado 50+ charlas: tienes la lista en la página de Eventos, con las charlas listas para tu evento.",
+        "groups": [
+          {
+            "title": "Formatos",
+            "items": ["Charla", "Keynote", "Lightning talk", "Taller", "Panel"]
+          }
+        ],
+        "formats": ["Italiano, inglés o español", "Presencial u online", "También como taller"],
+        "audience": "Organizadores de conferencias y comunidades, empresas y escuelas."
+      }
+    ],
+    "credTitle": "Por qué trabajar conmigo",
+    "credText": "Experiencia en el campo, libros y años de escenario: esto es lo que aporto a cada proyecto.",
+    "credBooks": "Libros publicados por Apogeo y Hoepli",
+    "credBooksAll": "Todos los libros",
+    "contactTitle": "Contacto",
+    "contactText": "Escríbeme con un par de líneas sobre objetivo, destinatarios y plazos: te responderé con una propuesta clara.",
+    "aiAreas": {
+      "title": "Ámbitos de IA en los que puedo trabajar",
+      "lead": "Para cada ámbito indico dónde ya he presentado el tema: charlas, artículos y libros.",
+      "where": "Dónde he hablado de ello",
+      "talk": "Charla",
+      "talkAvail": "Charla disponible",
+      "article": "Artículo",
+      "book": "Libro",
+      "all": "Ver todas las charlas",
+      "groups": {
+        "genai": "IA generativa y LLM",
+        "governance": "Gobernanza y riesgo",
+        "techniques": "Técnicas de IA y datos",
+        "sectors": "Sectores de aplicación"
+      },
+      "items": {
+        "rag": {
+          "title": "Chatbots y asistentes sobre documentos de empresa (RAG)",
+          "text": "Búsqueda semántica, embeddings y pipelines RAG que responden citando las fuentes, sin inventar."
+        },
+        "agents": {
+          "title": "Agentes de IA y automatización (MCP)",
+          "text": "Agentes y flujos automatizados, con contexto fiable y control humano."
+        },
+        "selfhost": {
+          "title": "Modelos de código abierto en casa",
+          "text": "Self-hosting con PyTorch, FastAPI y Kubeflow para privacidad, control y rendimiento."
+        },
+        "aidev": {
+          "title": "IA en el desarrollo de software",
+          "text": "Asistentes de código y DevAIOps con barandillas: dónde la IA es segura de adoptar y dónde hace falta control humano."
+        },
+        "security": {
+          "title": "Seguridad de la IA",
+          "text": "Prompt injection, evasión de filtros y ataques adversariales: cómo funcionan y cómo defenderse."
+        },
+        "costs": {
+          "title": "Costes de la IA (MLOps y FinOps)",
+          "text": "Optimizar inference y pipelines de ML controlando el coste por predicción."
+        },
+        "sustainable": {
+          "title": "IA sostenible",
+          "text": "Evaluar y reducir el impacto ambiental de los modelos generativos."
+        },
+        "ethics": {
+          "title": "Ética y alfabetización en IA",
+          "text": "Entender qué hacen las IA cuando deciden por nosotros, también de cara a la AI Act."
+        },
+        "nlp": {
+          "title": "NLP clásico, sin LLM",
+          "text": "Extracción de palabras clave, detección de intenciones y segmentación de frases con YAKE, scikit-learn y spaCy: rápidos, controlables y baratos."
+        },
+        "xai": {
+          "title": "IA explicable",
+          "text": "Entender por qué un modelo predice lo que predice, con SHAP y LIME."
+        },
+        "vision": {
+          "title": "Visión por computador",
+          "text": "Detección de objetos con YOLO, del dataset al entrenamiento."
+        },
+        "quantum": {
+          "title": "Computación cuántica para desarrolladores",
+          "text": "Introducción práctica en Python con Qiskit y QuTiP."
+        },
+        "health": {
+          "title": "IA y sanidad",
+          "text": "NLP clínico con librerías de código abierto como MedSpaCy."
+        },
+        "city": {
+          "title": "IA para ciudades y administración pública",
+          "text": "NLP sobre datos no estructurados para servicios al ciudadano y ciudades más reactivas."
+        },
+        "a11y": {
+          "title": "IA y accesibilidad web",
+          "text": "LLM para analizar y mejorar los front-ends según WAI-ARIA y WCAG."
+        },
+        "ops": {
+          "title": "IA para RR. HH., atención al cliente y marketing",
+          "text": "Automatización de tickets, documentos y contenidos con NLP y LLM."
+        },
+        "datascience": {
+          "title": "Análisis de datos y data science",
+          "text": "Del análisis exploratorio a los modelos predictivos: limpieza de datos, valores faltantes, feature engineering y evaluación de modelos."
+        }
+      }
+    },
+    "articlesLabel": "Desde el blog",
+    "heading": "Formación, consultoría de IA y charlas en Roma y online",
+    "coursesLabel": "Cursos disponibles",
+    "booksLink": "Los libros de los que nacen los cursos"
+  },
+  "projects": {
+    "intro": "Algunos de los proyectos con los que acerco la IA y el cloud native a un público amplio. Para la trayectoria completa y los casos de estudio, consulta mi perfil de LinkedIn.",
+    "roleLabel": "Rol",
+    "problemLabel": "Problema",
+    "solutionLabel": "Solución",
+    "resultsLabel": "Resultados",
+    "items": [
+      {
+        "id": "theredcode",
+        "title": "TheRedCode.it",
+        "kind": "Blog",
+        "text": "El blog tech que creé y que cuido, con la colaboración de otros autores: inteligencia artificial, NLP, DevOps, green software y herramientas para desarrolladores.",
+        "role": "Fundadora y autora",
+        "link": "https://theredcode.it",
+        "linkLabel": "Visita TheRedCode.it"
+      },
+      {
+        "id": "books",
+        "title": "Libros técnicos",
+        "kind": "Edición",
+        "text": "Autora de 5+ libros técnicos, entre ellos para Apogeo: Docker, Kubernetes, Basi di dati (bases de datos) y Analisi del linguaggio con Python (análisis del lenguaje con Python), y para Hoepli: Ionic 5.",
+        "role": "Autora",
+        "link": "https://www.amazon.it/stores/Serena-Sensini/author/B0DMFP2JY1",
+        "linkLabel": "Todos los libros en Amazon"
+      },
+      {
+        "id": "podcast",
+        "title": "Edicola Cloud",
+        "kind": "Pódcast",
+        "text": "Pódcast de noticias de cloud y tecnología que presento con Andrea Saltarello desde 2024: cada episodio comenta las novedades del sector. Disponible en todas las plataformas de streaming.",
+        "role": "Co-host, con Andrea Saltarello, desde 2024",
+        "link": "https://open.spotify.com/show/5Bs7fIw4lkuRJAiKMblapo",
+        "linkLabel": "Escucha en Spotify"
+      },
+      {
+        "id": "speaking",
+        "title": "Charlas",
+        "kind": "Conferencias",
+        "text": "Más de 10 años hablando en público y 50+ charlas presentadas en conferencias y comunidades sobre IA, nube, DevOps y Python.",
+        "role": "Ponente",
+        "link": "https://emblema.live/speaker/ssensini",
+        "linkLabel": "Ver el perfil en Emblema"
+      },
+      {
+        "id": "community",
+        "title": "Comunidad",
+        "kind": "Comunidad",
+        "text": "Colaboro con GDG Roma Città y soy miembro del Program Committee de Cloud Native Days Italy 2026.",
+        "role": "Colaboración y Program Committee",
+        "link": "",
+        "linkLabel": ""
+      },
+      {
+        "id": "references",
+        "title": "Casos de estudio y referencias",
+        "kind": "LinkedIn · Emblema",
+        "text": "Los casos de estudio, las recomendaciones y los comentarios sobre las charlas son públicos en mi perfil de LinkedIn y en Emblema.",
+        "role": "",
+        "link": "",
+        "linkLabel": "",
+        "links": [
+          {
+            "href": "https://www.linkedin.com/in/serena-sensini/",
+            "label": "Perfil de LinkedIn"
+          },
+          {
+            "href": "https://emblema.live/speaker/ssensini",
+            "label": "Perfil de Emblema"
+          }
+        ]
+      }
+    ],
+    "books": {
+      "title": "Libros",
+      "intro": "Libros técnicos publicados por Apogeo y Hoepli, en italiano. Para la lista actualizada consulta mi página de autora en Amazon.",
+      "publisher": "Editorial",
+      "pages": "páginas",
+      "link": "Ver el libro",
+      "author": "Autora",
+      "reviewedTitle": "Libros de los que he hecho la revisión y el prólogo",
+      "all": "Todos los libros en Amazon",
+      "by": "de",
+      "role": "Revisión y prólogo",
+      "disclosure": "Algunos enlaces a los libros revisados son enlaces de afiliado de Amazon: si compras desde ellos recibo una pequeña comisión, sin coste adicional para ti.",
+      "courses": "Cursos basados en mis libros"
+    }
+  },
+  "events": {
+    "intro": "Charlas, paneles y talleres en conferencias y comunidades. La lista procede de mi perfil de Emblema y se actualiza desde archivos estructurados. La lista es parcial: he dado más de 50 charlas.",
+    "upcomingTitle": "Próximos eventos",
+    "upcomingEmpty": "No hay eventos programados por ahora. Vuelve pronto o sígueme en LinkedIn.",
+    "pastTitle": "Eventos pasados",
+    "repertoireTitle": "Otras charlas disponibles",
+    "repertoireText": "Charlas listas para tu evento, también en formato taller.",
+    "filtersLabel": "Filtrar eventos",
+    "types": {
+      "talk": "Charla",
+      "keynote": "Keynote",
+      "lightning": "Lightning talk",
+      "workshop": "Taller",
+      "panel": "Panel",
+      "webinar": "Webinar"
+    },
+    "levels": {
+      "beginner": "Básico",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado"
+    },
+    "langs": {
+      "it": "Italiano",
+      "en": "Inglés",
+      "es": "Español"
+    },
+    "register": "Inscribirse",
+    "slides": "Diapositivas",
+    "video": "Vídeo",
+    "recap": "Artículo resumen",
+    "profile": "Ficha en Emblema",
+    "bookTalk": "¿Quieres una de estas charlas en tu evento? Mira cómo trabajo como ponente"
+  },
+  "blog": {
+    "intro": "Escribo en TheRedCode.it, el blog tech que creé y que cuido con otros autores. Aquí tienes mis últimos artículos.",
+    "latestTitle": "Últimos artículos",
+    "readOn": "Leer en TheRedCode.it",
+    "allPosts": "Ir al blog completo",
+    "categories": "Categorías",
+    "empty": "No hay artículos disponibles.",
+    "areas": "Los ámbitos de IA en los que trabajo"
+  },
+  "contact": {
+    "intro": "Para charlas, consultorías y colaboraciones, lo más rápido es escribirme por LinkedIn. Respondo en cuanto puedo.",
+    "channelsTitle": "Dónde encontrarme",
+    "emailLabel": "Correo electrónico",
+    "emailMissing": "[POR COMPLETAR] Dirección de correo",
+    "calendarLabel": "Reserva una llamada",
+    "calendarMissing": "[POR COMPLETAR] Enlace al calendario",
+    "linkedinLabel": "LinkedIn",
+    "blogLabel": "TheRedCode.it (blog)",
+    "emblemaLabel": "Emblema (charlas y conferencias)",
+    "availabilityTitle": "Disponibilidad y áreas de trabajo",
+    "availability": "Trabajo en remoto y en Roma, en italiano, inglés y español.",
+    "areas": [
+      "Inteligencia artificial, NLP y LLM",
+      "DevOps, cloud native, Kubernetes",
+      "Divulgación, formación y charlas",
+      "Mentoría y liderazgo técnico"
+    ],
+    "ctaPrimary": "Escríbeme por LinkedIn",
+    "githubLabel": "GitHub",
+    "servicesTitle": "Qué puedo hacer por ti",
+    "servicesIntro": "Estas son las formas más habituales de trabajar juntos: cada servicio tiene su ficha con temas, formatos y lecturas de profundización.",
+    "messageTitle": "Qué escribir en el mensaje",
+    "messageIntro": "Cuanta más información me des, más precisa será mi respuesta. Para empezar bastan unas líneas sobre:",
+    "tips": [
+      "Quién eres y de qué organización formas parte",
+      "El objetivo: qué quieres lograr o aprender",
+      "Los destinatarios: cuántas personas y de qué nivel, básico o avanzado",
+      "Formato y lugar: presencial en Roma u otro sitio, o en remoto",
+      "Fechas orientativas e idioma: italiano, inglés o español"
+    ]
+  },
+  "privacy": {
+    "backHome": "Volver al inicio"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "La página que buscas no existe o se ha movido.",
+    "link": "Volver al inicio"
+  },
+  "footer": {
+    "text": "Hecho con HTML, SCSS y Markdown.",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "cookies": "Preferencias de analítica",
+    "role": "CTO @ Welyk, Trainer, Public Speaker, Autora"
+  },
+  "consent": {
+    "title": "¿Estadísticas anónimas?",
+    "text": "Uso Google Analytics para entender cómo se lee el sitio. Solo se activa si aceptas.",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "more": "Más información en la política de privacidad",
+    "label": "Preferencias de cookies"
+  },
+  "story": {
+    "label": "Mi historia",
+    "ctaTitle": "¿Quieres saber más?",
+    "ctaText": "Escríbeme para una charla, una consultoría o una colaboración."
+  }
+}

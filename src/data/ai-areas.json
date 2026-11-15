@@ -1,0 +1,268 @@
+{
+  "groups": [
+    {
+      "id": "genai",
+      "items": [
+        {
+          "id": "rag",
+          "evidence": [
+            {
+              "talk": "from-keywords-search-to-semantic-search"
+            },
+            {
+              "post": "llm-lost-in-the-middle-come-ridurlo"
+            }
+          ]
+        },
+        {
+          "id": "agents",
+          "evidence": [
+            {
+              "post": "genai-vs-agenticai-differenze"
+            },
+            {
+              "post": "langchain-vs-langgraph"
+            },
+            {
+              "post": "dmf-memoria-deterministica-agenti-llm"
+            },
+            {
+              "post": "tokensave-algoritmi-grafo-mcp-context-builder"
+            },
+            {
+              "post": "grafo-semantico-codice-agenti-ai"
+            }
+          ]
+        },
+        {
+          "id": "selfhost",
+          "evidence": [
+            {
+              "talk": "self-hosting-ai-con-tool-oss"
+            },
+            {
+              "post": "ollama-su-openshift-implementazione"
+            },
+            {
+              "post": "ollama-intro-cose-come-usarlo"
+            },
+            {
+              "post": "ollama-quantizzazione-llm"
+            },
+            {
+              "post": "modelli-linguistici-per-dispositivi-mobili"
+            }
+          ]
+        },
+        {
+          "id": "aidev",
+          "evidence": [
+            {
+              "talk": "aidd-how-ai-changes-the-way-we-code"
+            },
+            {
+              "talk": "from-devops-to-devoops"
+            },
+            {
+              "post": "github-copilot-custom-agents"
+            },
+            {
+              "post": "github-copilot-prompt-files"
+            },
+            {
+              "post": "la-fine-del-prompt-engineering"
+            },
+            {
+              "post": "llm-ragionamento-falso-allucinazioni"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "governance",
+      "items": [
+        {
+          "id": "security",
+          "evidence": [
+            {
+              "talk": "unicode-invisibile"
+            },
+            {
+              "talk": "adversarial-intelligence-gans"
+            },
+            {
+              "post": "spacy-pii-riconoscimento-anonimizzazione-testi"
+            }
+          ]
+        },
+        {
+          "id": "costs",
+          "evidence": [
+            {
+              "talk": "hidden-costs-of-ai"
+            },
+            {
+              "talk": "ai-at-scale-aws"
+            },
+            {
+              "talk": "cost-aware-mlops"
+            },
+            {
+              "post": "ottimizzazione-costi-scikit-learn-python"
+            }
+          ]
+        },
+        {
+          "id": "sustainable",
+          "evidence": [
+            {
+              "talk": "sustainable-ai"
+            }
+          ]
+        },
+        {
+          "id": "ethics",
+          "evidence": [
+            {
+              "talk": "cosa-si-prova-ad-essere-un-ia"
+            },
+            {
+              "post": "ai-act-vs-ddl-vs-cloud-dev-act"
+            },
+            {
+              "post": "diritto-autore-gen-ai-act"
+            },
+            {
+              "post": "neo-home-1x-robot-etica"
+            },
+            {
+              "post": "ai-e-politica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "techniques",
+      "items": [
+        {
+          "id": "nlp",
+          "evidence": [
+            {
+              "book": "Analisi del linguaggio con Python"
+            },
+            {
+              "post": "keyword-extraction-senza-llm-ticket-articoli-documenti"
+            },
+            {
+              "post": "intent-detection-senza-llm-nlp"
+            },
+            {
+              "post": "nlp-transformers-cosa-sono"
+            },
+            {
+              "post": "churn-prediction-python-nltk"
+            }
+          ]
+        },
+        {
+          "id": "xai",
+          "evidence": [
+            {
+              "post": "shap-vs-lime-spiegabilita-modelli-ml-python"
+            }
+          ]
+        },
+        {
+          "id": "datascience",
+          "evidence": [
+            {
+              "talk": "our-hearts-will-code-on"
+            },
+            {
+              "post": "data-imputation-tecniche-per-dati-mancanti"
+            },
+            {
+              "post": "churn-prediction-python-nltk"
+            },
+            {
+              "post": "ottimizzazione-costi-scikit-learn-python"
+            }
+          ]
+        },
+        {
+          "id": "vision",
+          "evidence": [
+            {
+              "talk": "yolo-at-sea"
+            },
+            {
+              "post": "yolov11-come-funziona-guida-pratica"
+            },
+            {
+              "post": "skin-cancer-detection-con-yolo-v11"
+            }
+          ]
+        },
+        {
+          "id": "quantum",
+          "evidence": [
+            {
+              "talk": "thinking-in-qubits"
+            },
+            {
+              "talk": "quantum-chaos-monkey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sectors",
+      "items": [
+        {
+          "id": "health",
+          "evidence": [
+            {
+              "talk": "one-library-per-day"
+            },
+            {
+              "post": "eseguire-llm-healthcare-ollama"
+            },
+            {
+              "post": "skin-cancer-detection-con-yolo-v11"
+            }
+          ]
+        },
+        {
+          "id": "city",
+          "evidence": [
+            {
+              "talk": "nlp-for-smart-cities"
+            }
+          ]
+        },
+        {
+          "id": "a11y",
+          "evidence": [
+            {
+              "talk": "privileged-users-accessibility-llm"
+            }
+          ]
+        },
+        {
+          "id": "ops",
+          "evidence": [
+            {
+              "post": "keyword-extraction-senza-llm-ticket-articoli-documenti"
+            },
+            {
+              "post": "churn-prediction-python-nltk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

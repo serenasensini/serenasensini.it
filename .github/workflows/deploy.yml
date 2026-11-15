@@ -1,0 +1,48 @@
+name: Deploy su GitHub Pages
+
+# Solo push su main, schedule e avvio manuale: nessun trigger `pull_request_target`,
+# così le PR di esterni non eseguono codice con i permessi del repository.
+on:
+  push:
+    branches: [main]
+  # Ricostruzione settimanale: "prossimi eventi" e "eventi passati" dipendono dalla data di build.
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+        env:
+          GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
