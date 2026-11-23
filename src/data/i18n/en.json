@@ -104,12 +104,12 @@
     "role": "CTO @ Welyk & Trainer · Speaker, author and Tech Mentor",
     "value": "I make tech understandable, reliable and sustainable: for the people who build them and for those who decide how to use them.",
     "ctaPrimary": "Message me on LinkedIn",
-    "ctaSecondary": "See the projects",
+    "ctaSecondary": "My projects",
     "location": "Remote · Rome"
   },
   "home": {
     "introTitle": "In short",
-    "introText": "I started programming in VB at six and have worn many hats since: data scientist, AI expert, Enterprise Architect (former Sysadmin and DevOps engineer) and full-stack developer. Today I combine my expertise in AI and DevCloudOps, and I tell the story of technology in small bits on the TheRedCode.it blog and on conference stages.",
+    "introText": "I started programming in VB at six and have worn many hats since: data scientist, full-stack developer, AI expert and Enterprise Architect (former sysadmin and DevOps engineer). Today I bring together my experience in AI and DevCloudOps and explain technology, in small bits, to businesses through my blog TheRedCode.it and on conference stages.",
     "introLink": "Read my story",
     "stats": [
       {
@@ -126,7 +126,7 @@
       }
     ],
     "servicesTitle": "How I can help",
-    "servicesLink": "See how we can work together",
+    "servicesLink": "How we can work together",
     "projectsTitle": "Projects and results",
     "projectsLink": "All projects",
     "eventsTitle": "Featured events",
@@ -159,7 +159,7 @@
         "text": "Kubernetes, Docker, Linux and cloud architectures."
       }
     ],
-    "servicesLead": "Serena Sensini is a CTO, trainer and speaker on AI, DevOps and cloud native: training for companies and individuals, teaching at ITS institutes, technical consulting and public speaking, in Rome and online."
+    "servicesLead": "I am currently CTO at Welyk, and I also work as a trainer and speaker on AI, DevOps and cloud native: training for companies and individuals, teaching at ITS institutes, technical consulting and speaking engagements, in Rome and online."
   },
   "about": {
     "pathTitle": "Path and community",
@@ -189,7 +189,18 @@
           "OpenShift",
           "Enterprise Architecture",
           "DevSecOps",
-          "Linux"
+          "Linux",
+          "Jenkins",
+          "Argo CD",
+          "Tekton",
+          "Terraform",
+          "Ansible",
+          "Helm",
+          "GitHub Actions",
+          "GitLab CI",
+          "Prometheus",
+          "Grafana",
+          "ELK Stack"
         ]
       },
       {
@@ -211,8 +222,8 @@
       },
       {
         "when": "Mar 2024 – today",
-        "title": "Tech Expert · Welyk (freelance)",
-        "text": "I support the technical growth of people and teams and run technical interviews with rigour and attention to candidates' potential."
+        "title": "Tech Expert · Welyk",
+        "text": "I run technical interviews on behalf of client companies, using an approach based on skills, soft skills and growth potential. I work with clients to understand the role and team's needs, and provide detailed feedback on candidates."
       },
       {
         "when": "Jan 2025 – Dec 2026",
@@ -423,7 +434,11 @@
           },
           {
             "title": "DevOps and security",
-            "items": ["DevOps", "DevSecOps", "CI/CD"]
+            "items": ["DevOps", "DevSecOps", "CI/CD", "Jenkins", "GitLab", "Argo CD"]
+          },
+          {
+            "title": "Monitoring and logging",
+            "items": ["Prometheus", "Grafana", "ELK Stack"]
           },
           {
             "title": "AI and data",
@@ -442,6 +457,11 @@
             "items": [
               "AI for marketing",
               "AI for productivity",
+              "AI for document analysis and summarization",
+              "AI for enterprise knowledge management",
+              "AI for customer service",
+              "AI-powered process automation",
+              "Responsible AI",
               "Prompt engineering",
               "Vibe coding"
             ]

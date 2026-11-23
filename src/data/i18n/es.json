@@ -104,12 +104,12 @@
     "role": "CTO @ Welyk & Trainer · Ponente, autora y Tech Mentor",
     "value": "Hago que la tecnología sea comprensible, fiable y sostenible: para las personas que la construyen y para quienes deciden cómo usarla.",
     "ctaPrimary": "Escríbeme por LinkedIn",
-    "ctaSecondary": "Ver los proyectos",
+    "ctaSecondary": "Mis proyectos",
     "location": "Remoto · Roma"
   },
   "home": {
     "introTitle": "En breve",
-    "introText": "Empecé a programar en VB a los seis años y desde entonces he llevado muchos sombreros: data scientist, experta en IA, Enterprise Architect (antes sysadmin e ingeniera DevOps) y desarrolladora full-stack. Hoy combino mi experiencia en IA y DevCloudOps y cuento la tecnología en pequeños bits en el blog TheRedCode.it y en los escenarios de las conferencias.",
+    "introText": "Empecé a programar en VB a los seis años y desde entonces he llevado muchos sombreros: data scientist, desarrolladora full-stack, experta en IA y Enterprise Architect (antes sysadmin e ingeniera DevOps). Hoy combino mi experiencia en IA y DevCloudOps y explico la tecnología, en pequeños bits, a las empresas, además de hacerlo en mi blog TheRedCode.it y en los escenarios de las conferencias.",
     "introLink": "Lee mi trayectoria",
     "stats": [
       {
@@ -126,7 +126,7 @@
       }
     ],
     "servicesTitle": "Cómo puedo ayudarte",
-    "servicesLink": "Descubre cómo trabajamos juntos",
+    "servicesLink": "Cómo podemos trabajar juntos",
     "projectsTitle": "Proyectos y resultados",
     "projectsLink": "Todos los proyectos",
     "eventsTitle": "Eventos destacados",
@@ -159,7 +159,7 @@
         "text": "Kubernetes, Docker, Linux y arquitecturas cloud."
       }
     ],
-    "servicesLead": "Serena Sensini es CTO, formadora y ponente sobre IA, DevOps y cloud native: formación para empresas y particulares, docencia en ITS, consultoría técnica y charlas, en Roma y online."
+    "servicesLead": "Actualmente soy CTO en Welyk y también trabajo como formadora y ponente sobre IA, DevOps y cloud native: formación para empresas y particulares, docencia en ITS, consultoría técnica y conferencias, en Roma y online."
   },
   "about": {
     "pathTitle": "Trayectoria y comunidad",
@@ -189,7 +189,18 @@
           "OpenShift",
           "Enterprise Architecture",
           "DevSecOps",
-          "Linux"
+          "Linux",
+          "Jenkins",
+          "Argo CD",
+          "Tekton",
+          "Terraform",
+          "Ansible",
+          "Helm",
+          "GitHub Actions",
+          "GitLab CI",
+          "Prometheus",
+          "Grafana",
+          "ELK Stack"
         ]
       },
       {
@@ -211,8 +222,8 @@
       },
       {
         "when": "mar 2024 – hoy",
-        "title": "Tech Expert · Welyk (autónoma)",
-        "text": "Acompaño el crecimiento técnico de personas y equipos y realizo entrevistas técnicas con rigor y atención al potencial de las personas candidatas."
+        "title": "Tech Expert · Welyk",
+        "text": "Realizo entrevistas técnicas por cuenta de las empresas clientes, con un enfoque basado en competencias, habilidades interpersonales y potencial de crecimiento. Colaboro con el cliente para entender las necesidades del puesto y del equipo, y ofrezco comentarios detallados sobre las personas candidatas."
       },
       {
         "when": "ene 2025 – dic 2026",
@@ -423,7 +434,11 @@
           },
           {
             "title": "DevOps y seguridad",
-            "items": ["DevOps", "DevSecOps", "CI/CD"]
+            "items": ["DevOps", "DevSecOps", "CI/CD", "Jenkins", "GitLab", "Argo CD"]
+          },
+          {
+            "title": "Monitorización y logging",
+            "items": ["Prometheus", "Grafana", "ELK Stack"]
           },
           {
             "title": "IA y datos",
@@ -442,6 +457,11 @@
             "items": [
               "IA para marketing",
               "IA para la productividad",
+              "IA para el análisis y la síntesis de documentos",
+              "IA para la gestión del conocimiento empresarial",
+              "IA para la atención al cliente",
+              "Automatización de procesos con IA",
+              "Uso responsable de la IA",
               "Prompt engineering",
               "Vibe coding"
             ]

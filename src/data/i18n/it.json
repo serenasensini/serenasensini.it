@@ -104,12 +104,12 @@
     "role": "CTO @ Welyk & Trainer · Speaker, autrice e Tech Mentor",
     "value": "Rendo la tecnologia comprensibile, affidabile e sostenibile: per le persone che la costruiscono e per chi decide come usarla.",
     "ctaPrimary": "Scrivimi su LinkedIn",
-    "ctaSecondary": "Vedi i progetti",
+    "ctaSecondary": "I miei progetti",
     "location": "Remoto · Roma"
   },
   "home": {
     "introTitle": "In breve",
-    "introText": "Ho iniziato a programmare in VB a sei anni e da allora ho indossato molti cappelli: data scientist, AI expert, Enterprise Architect (ex sysadmin e DevOps engineer) e full-stack developer. Oggi unisco la mia esperienza in AI e DevCloudOps e racconto la tecnologia, a piccoli bit, sul blog TheRedCode.it e sui palchi delle conferenze.",
+    "introText": "Ho iniziato a programmare in VB a sei anni e da allora ho indossato molti cappelli: data scientist, full-stack developer, AI expert, Enterprise Architect (ex sysadmin e DevOps engineer). Oggi unisco la mia esperienza in ambito AI e DevCloudOps e racconto la tecnologia, a piccoli bit, alle aziende, oltre che sul mio blog TheRedCode.it e sui palchi delle conferenze.",
     "introLink": "Leggi il mio percorso",
     "stats": [
       {
@@ -126,7 +126,7 @@
       }
     ],
     "servicesTitle": "Come posso aiutarti",
-    "servicesLink": "Scopri come lavoriamo insieme",
+    "servicesLink": "Come possiamo lavorare insieme",
     "projectsTitle": "Progetti e risultati",
     "projectsLink": "Tutti i progetti",
     "eventsTitle": "Eventi in evidenza",
@@ -159,7 +159,7 @@
         "text": "Kubernetes, Docker, Linux e architetture cloud."
       }
     ],
-    "servicesLead": "Serena Sensini è CTO, formatrice e speaker su AI, DevOps e cloud native: formazione per aziende e privati, docenza per ITS, consulenza tecnica e interventi come relatrice, a Roma e online."
+    "servicesLead": "Ricopro attualmente il ruolo di CTO in Welyk, e lavoro anche come formatrice e speaker su AI, DevOps e cloud native: formazione per aziende e privati, docenza per ITS, consulenza tecnica e interventi come relatrice, a Roma e online."
   },
   "about": {
     "pathTitle": "Percorso e community",
@@ -189,7 +189,18 @@
           "OpenShift",
           "Enterprise Architecture",
           "DevSecOps",
-          "Linux"
+          "Linux",
+          "Jenkins",
+          "Argo CD",
+          "Tekton",
+          "Terraform",
+          "Ansible",
+          "Helm",
+          "GitHub Actions",
+          "GitLab CI",
+          "Prometheus",
+          "Grafana",
+          "ELK Stack"
         ]
       },
       {
@@ -205,8 +216,8 @@
       },
       {
         "when": "mar 2024 – oggi",
-        "title": "Tech Expert · Welyk (autonoma)",
-        "text": "Accompagno la crescita tecnica delle persone e dei team e conduco colloqui tecnici con rigore e attenzione al potenziale delle persone candidate."
+        "title": "Tech Expert · Welyk",
+        "text": "Conduco colloqui tecnici per conto delle aziende clienti, seguendo un approccio basato su competenze, soft skill e potenziale di crescita. Collaboro con il cliente per comprendere le esigenze del ruolo e del team e fornisco feedback dettagliati sui candidati."
       },
       {
         "when": "gen 2025 – dic 2026",
@@ -417,7 +428,11 @@
           },
           {
             "title": "DevOps e sicurezza",
-            "items": ["DevOps", "DevSecOps", "CI/CD"]
+            "items": ["DevOps", "DevSecOps", "CI/CD", "Jenkins", "GitLab", "Argo CD"]
+          },
+          {
+            "title": "Monitoraggio e logging",
+            "items": ["Prometheus", "Grafana", "ELK Stack"]
           },
           {
             "title": "AI e dati",
@@ -436,13 +451,18 @@
             "items": [
               "AI per il marketing",
               "AI per la produttività",
+              "AI per analisi e sintesi dei documenti",
+              "AI per la gestione della conoscenza aziendale",
+              "AI per il customer care",
+              "Automazione dei processi con AI",
+              "Uso responsabile dell'AI",
               "Prompt engineering",
               "Vibe coding"
             ]
           }
         ],
         "formats": [
-          "In presenza a Roma o da remoto",
+          "In presenza a Roma (o in Italia) o da remoto",
           "Per team aziendali o per privati",
           "Gruppi da 10–15 persone, anche più",
           "Livello base e avanzato",
